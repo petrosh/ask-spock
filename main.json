@@ -1,0 +1,1228 @@
+{ "main": [
+  {
+    "season": 1,
+    "episode": 6,
+    "title": "The Man Trap",
+    "questions": [
+      {
+        "ask": "UHURA: Mister Spock, sometimes I think if I hear that word frequency once more, I'll cry.",
+        "SPOCK": "Cry?"
+      },{
+        "ask": "UHURA: Tell me how your planet Vulcan looks on a lazy evening when the moon is full.",
+        "SPOCK": "Vulcan has no moon, Miss Uhura."
+      },{
+        "ask": "KIRK: What?",
+        "SPOCK": "Sodium chloride. Not a trace of it."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 2,
+    "title": "Charlie X",
+    "questions": [
+      {
+        "ask": "KIRK: What about the Antares?",
+        "SPOCK": "The debris is what's left of the Antares."
+      },{
+        "ask": "KIRK: Checkmate.",
+        "SPOCK": "Your illogical approach to chess does have its advantages on occasion, Captain."
+      },{
+        "ask": "KIRK: Mister Spock?",
+        "SPOCK": "My legs. They're broken."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 3,
+    "title": "Where No Man Has Gone Before",
+    "questions": [
+      {
+        "ask": "KIRK: Certain you don't know what irritation is?",
+        "SPOCK": "The fact one of my ancestors married a human female"
+      },{
+        "ask": "MITCHELL: Well, uh, you finish the game?",
+        "SPOCK": "He played most illogically. His next move should have been the rook."
+      },{
+        "ask": "KIRK: Any radiation? Anything?",
+        "SPOCK": "Negative!"
+      },{
+        "ask": "KIRK: And if we can't?",
+        "SPOCK": "It is the only possible way to get Mitchell off this ship."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 4,
+    "title": "The Naked Time",
+    "questions": [
+      {
+        "ask": "KIRK: What caused it?",
+        "SPOCK": "Unknown, Captain. It's like nothing we've dealt with before."
+      },{
+        "ask": "Any idea of what happened down there?",
+        "SPOCK": "I wish I could say, Captain."
+      },{
+        "ask": "KIRK: Was he trying to kill himself?",
+        "SPOCK": "It's doubtful he meant to. He was confused, self-tortured."
+      },{
+        "ask": "KIRK: What were their symptoms?",
+        "SPOCK": "Nonviolent at this stage. Slightly disoriented."
+      },{
+        "ask": "KIRK: Where have you been? What happened?",
+        "SPOCK": "My mother. I could never tell her I loved her."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 5,
+    "title": "The Enemy Within",
+    "questions": [
+      {
+        "ask": "KIRK: Like what?",
+        "SPOCK": "Well, Doctor McCoy seemed to think I should check on you."
+      },{
+        "ask": "KIRK: What's the matter with me?",
+        "SPOCK": "Judging from my observations, Captain, you're rapidly losing the power of decision."
+      },{
+        "ask": "FARRELL: Mister Spock, which one? What do we do?",
+        "SPOCK": "We'll let the captain handle this."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 6,
+    "title": "Mudd's Women",
+    "questions": [
+      {
+        "ask": "KIRK: Earth ship, Mister Spock?",
+        "SPOCK": "Difficult to say, Captain. We're getting no registration beam from it."
+      },{
+        "ask": "KIRK: Well, Mister Spock?",
+        "SPOCK": "There's a lithium mining operation on Rigel 12."
+      },{
+        "ask": "KIRK: Lay in. Computer?",
+        "SPOCK": "We can sustain this orbit for three days, seven hours."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 7,
+    "title": "What Are Little Girls Made Of?",
+    "questions": [
+      {
+        "ask": "KIRK: I'm sick of your half-breed interference, do you hear?",
+        "SPOCK": "Yes. very well, Captain."
+      },{
+        "ask": "KIRK: Something bothering you, Mister Spock?",
+        "SPOCK": "Frankly, I was rather dismayed by your use of the term half-breed, Captain."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 8,
+    "title": "Miri",
+    "questions": [
+      {
+        "ask": "KIRK: How old is this thing?",
+        "SPOCK": "About three hundred years."
+      },{
+        "ask": "KIRK: Loneliness? I don't know, curiosity?",
+        "SPOCK": "There may be other emotions at work in this case, Captain."
+      },{
+        "ask": "RAND: One hundred years and only one month?",
+        "SPOCK": "Exactly, Yeoman."
+      },{
+        "ask": "KIRK: You couldn't get close to the other kids?",
+        "SPOCK": "Impossible. They know the area too well, like mice."
+      },{
+        "ask": "MCCOY: What about us?",
+        "SPOCK": "The older the victim, the more rapid the progress of the disease."
+      },{
+        "ask": "KIRK: Are You certain about the time we have left?",
+        "SPOCK": "I presume my calculations are correct."
+      },{
+        "ask": "MCCOY: But the question is, what's the dosage?",
+        "SPOCK": "That is a very good question."
+      },{
+        "ask": "GALLOWAY: Is he dead, Mister Spock?",
+        "SPOCK": "Not yet."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 9,
+    "title": "Dagger Of The Mind",
+    "questions": [
+      {
+        "ask": "KIRK: Estimated arrival at Tantalus?",
+        "SPOCK": "Fifty seven minutes, thirty seconds, Captain."
+      },{
+        "ask": "MCCOY: Will it work or not?",
+        "SPOCK": "It could be dangerous. Do you understand?"
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 10,
+    "title": "The Corbomite Maneuver",
+    "questions": [
+      {
+        "ask": "BAILEY: It's blocking the way!",
+        "SPOCK": "Quite unnecessary to raise your voice, Mister Bailey."
+      },{
+        "ask": "KIRK: What's that?",
+        "SPOCK": "Undetermined. Whatever it is, it's blocking our way."
+      },{
+        "ask": "KIRK: Intelligence different from ours or superior?",
+        "SPOCK": "Probably both"
+      },{
+        "ask": "KIRK: What's its mass, Mister Spock?",
+        "SPOCK": "Reading goes off my scale, Captain."
+      },{
+        "ask": "KIRK: Is that your best recommendation?",
+        "SPOCK": "I'm sorry, I regret that I can find no other logical alternative."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 11,
+    "title": "The Menagerie, part 1",
+    "questions": [
+      {
+        "ask": "CHIEF: What are you doing here?",
+        "SPOCK": "I have security clearance, Chief."
+      },{
+        "ask": "MCCOY: What is this, Spock?",
+        "SPOCK": "Doctor, one moment, please."
+      },{
+        "ask": "HANSEN: Shall we reverse helm?",
+        "SPOCK": "Take no action, Mister Hansen."
+      },{
+        "ask": "PIKE: You feel up to it?",
+        "SPOCK": "Yes, sir."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 12,
+    "title": "The Menagerie, part 2",
+    "questions": [
+      {
+        "ask": "MENDEZ: How do you plead to the charge of unlawfully taking command?",
+        "SPOCK": "Guilty."
+      },{
+        "ask": "KIRK: Well, Mister Spock?",
+        "SPOCK": "Signal you want them to wait. Captain, please."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 13,
+    "title": "The Conscience Of The King",
+    "questions": [
+      {
+        "ask": "MCCOY: Would you care for a drink, Mister Spock?",
+        "SPOCK": "My father's race was spared the dubious benefits of alcohol."
+      },{
+        "ask": "MCCOY: Come on, have a drink.",
+        "SPOCK": "No, thank you."
+      },{
+        "ask": "KIRK: You think that happened?",
+        "SPOCK": "It could happen."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 14,
+    "title": "Balance Of Terror",
+    "questions": [
+      {
+        "ask": "KIRK: Comments?",
+        "SPOCK": "Obviously, their weaponry is superior to ours, and they have a practical invisibility screen."
+      },{
+        "ask": "KIRK: Comet Icarus four. Composition?",
+        "SPOCK": "Quite ordinary. An ionised mass, a trail of frozen vapour particles."
+      },{
+        "ask": "KIRK: Phasers, Mister Spock?",
+        "SPOCK": "Impossible, Captain."
+      },{
+        "ask": "KIRK: However?",
+        "SPOCK": "Insufficient mass, sir."
+      },{
+        "ask": "KIRK: Report, Mister Spock?",
+        "SPOCK": "Nuclear device of some kind, sir."
+      },{
+        "ask": "KIRK: Ship damage?",
+        "SPOCK": "Mainly overloads and circuit burnouts."
+      },{
+        "ask": "KIRK: Are you all right, Mister Spock?",
+        "SPOCK": "Yes, very well, thank you, Captain."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 15,
+    "title": "Shore Leave",
+    "questions": [
+      {
+        "ask": "KIRK: Anything from the landing party?",
+        "SPOCK": "They should be sending up a report momentarily, Captain."
+      },{
+        "ask": "KIRK: Spock?",
+        "SPOCK": "At this point, Captain, my analysis may not sound very scientific."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 16,
+    "title": "The Galileo Seven",
+    "questions": [
+      {
+        "ask": "SCOTT: You don't really expect to get an answer, do you?",
+        "SPOCK": "I expect nothing, Mister Scott."
+      },{
+        "ask": "MCCOY: What do you think our chances are of contacting the Enterprise?",
+        "SPOCK": "Under present conditions, extremely poor."
+      },{
+        "ask": "BOMA: And who's to choose?",
+        "SPOCK": "As commanding officer, the choice will be mine."
+      },{
+        "ask": "BOMA: What about Latimer?",
+        "SPOCK": "My concern for the dead will not bring him back to life, Mister Boma."
+      },{
+        "ask": "MCCOY: What do those supersensitive ears make of that, Mister Spock?",
+        "SPOCK": "Wood rubbing on some kind of leather."
+      },{
+        "ask": "MEARS: Did you find them?",
+        "SPOCK": "Yes, we found them. They won't bother us again."
+      },{
+        "ask": "BOMA: Another prediction, Mister Spock?",
+        "SPOCK": "My opinion, Mister Boma."
+      },{
+        "ask": "SCOTT: What are you doing?",
+        "SPOCK": "Our boosters."
+      },{
+        "ask": "BOMA: You mean a burn-up?",
+        "SPOCK": "It is the usual end of a decaying orbit."
+      },{
+        "ask": "BOMA: We need that fuel to maintain orbit. Are you out of your mind?",
+        "SPOCK": "Perhaps, Mister Boma."
+      },{
+        "ask": "KIRK: How does your well-known logic explain that?",
+        "SPOCK": "Quite simply, Captain."
+      },{
+        "ask": "KIRK: You're not going to admit that for the first time in your life, you committed a purely human emotional act?",
+        "SPOCK": "No, sir."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 17,
+    "title": "The Squire of Gothos",
+    "questions": [
+      {
+        "ask": "KIRK: Something, Mister Spock?",
+        "SPOCK": "Unusual, Captain. I'm now getting a sizable space-displacement reading."
+      },{
+        "ask": "MCCOY: What are we waiting for?",
+        "SPOCK": "The decision will be mine, Doctor. I have the responsibility for your safety."
+      },{
+        "ask": "SCOTT: Shooting in the dark, Mister Spock?",
+        "SPOCK": "Or stand by and do nothing, Mister Scott."
+      },{
+        "ask": "KIRK: How were our scanners able to penetrate that radiation field?",
+        "SPOCK": "They didn't, Captain. Not clearly."
+      },{
+        "ask": "MCCOY: Does your logic find this fascinating, Mister Spock?",
+        "SPOCK": "Fascinating is a word I use for the unexpected. In this case, I should think interesting would suffice."
+      },{
+        "ask": "KIRK: You don't find this unexpected, Mister Spock?",
+        "SPOCK": "That his food has no taste, his wine no flavour? No."
+      },{
+        "ask": "KIRK: What kind of a machine could do these things?",
+        "SPOCK": "A machine with the ability to turn energy into matter guided by thought waves."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 18,
+    "title": "Arena",
+    "questions": [
+      {
+        "ask": "KIRK: Survivors?",
+        "SPOCK": "Not survivors. Not warm-blooded."
+      },{
+        "ask": "KIRK: Where?",
+        "SPOCK": "Azimuth ninety three degrees, range one five seven zero yards."
+      },{
+        "ask": "KIRK: Can you remember the layout of this place? The arsenal?",
+        "SPOCK": "About one hundred yards in that direction."
+      },{
+        "ask": "KIRK: Mister Spock, what do we have on this general area?",
+        "SPOCK": "Virtually nothing, Captain. No records of any explorations."
+      },{
+        "ask": "KIRK: Anything on intelligent life forms?",
+        "SPOCK": "Nothing specific, Captain. Unscientific rumours only. More like space legends."
+      },{
+        "ask": "KIRK: Something the matter, Mister Spock?",
+        "SPOCK": "A sustained warp seven speed will be dangerous, Captain."
+      },{
+        "ask": "KIRK: From warp eight? Have you lost your mind?",
+        "SPOCK": "Same as the alien, Captain."
+      },{
+        "ask": "KIRK: Tractor beam?",
+        "SPOCK": "No, sir. An unidentifiable power."
+      },{
+        "ask": "MCCOY: What are you going to do, Mister Spock?",
+        "SPOCK": "I'm going to wait, Doctor. There's little else I can do."
+      },{
+        "ask": "MCCOY: Where's the Captain, Mister Spock?",
+        "SPOCK": "He's out there, Doctor. Out there somewhere in a thousand cubic parsecs of space."
+      },{
+        "ask": "MCCOY: What's he doing?",
+        "SPOCK": "Diamonds. The hardest known substance."
+      },{
+        "ask": "MCCOY: What force?",
+        "SPOCK": "Recall your basic chemistry, Doctor. Gunpowder."
+      },{
+        "ask": "MCCOY: Can he do it?",
+        "SPOCK": "If he has the time, Doctor. If he has the time."
+      },{
+        "ask": "KIRK: We're a most promising species, Mister Spock, as predators go. Did you know that?",
+        "SPOCK": "I've frequently had my doubts."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 19,
+    "title": "Tomorrow Is Yesterday",
+    "questions": [
+      {
+        "ask": "KIRK: Auxiliaries?",
+        "SPOCK": "If Mister Scott is still with us, auxiliaries should be on momentarily."
+      },{
+        "ask": "KIRK: What?",
+        "SPOCK": "Whiplash propelled us into a time warp, Captain."
+      },{
+        "ask": "KIRK: What is it, Mister Spock?",
+        "SPOCK": "The aircraft has completely broken up, Captain."
+      },{
+        "ask": "KIRK: You said you had some additional information, Mister Spock?",
+        "SPOCK": "I made an error in my computations."
+      },{
+        "ask": "KIRK: Any ideas on how to get us back to our own time?",
+        "SPOCK": "A theory. A reverse application of what happened to us. Logically, it could work."
+      },{
+        "ask": "MCCOY: How long have they been down there now?",
+        "SPOCK": "Fifteen minutes, twenty eight seconds."
+      },{
+        "ask": "MCCOY: Shouldn't you be working on your time warp calculations, Mister Spock?",
+        "SPOCK": "I am."
+      },{
+        "ask": "SULU: Shall I issue phasers?",
+        "SPOCK": "One for you, one for me. Set them on heavy stun force."
+      },{
+        "ask": "KIRK: What's our reading, Mister Spock?",
+        "SPOCK": "Approaching our century, Captain."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 20,
+    "title": "Court Martial",
+    "questions": [
+      {
+        "ask": "SHAW: Then how can you dispute the finding of the log?",
+        "SPOCK": "I do not dispute it. I merely state that it is wrong."
+      },{
+        "ask": "COGLEY: Why?",
+        "SPOCK": "I personally programmed the computer for chess months ago."
+      },{
+        "ask": "KIRK: Mister Spock, what's our orbit status?",
+        "SPOCK": "Decaying, Captain."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 21,
+    "title": "The Return of The Archons",
+    "questions": [
+      {
+        "ask": "KIRK: What is it, Mister Spock?",
+        "SPOCK": "Strong power generations, Captain. Near here, but radiating in all directions."
+      },{
+        "ask": "KIRK: What is it?",
+        "SPOCK": "Sensor beams, very strong. We're being probed."
+      },{
+        "ask": "KIRK: Where is here?",
+        "SPOCK": "Evidently a maximum security establishment. Are you armed?"
+      },{
+        "ask": "KIRK: What is your theory, Mister Spock?",
+        "SPOCK": "This is a soulless society, Captain. It has no spirit, no spark."
+      },{
+        "ask": "MARPLON: Is this truly Landru?",
+        "SPOCK": "What's left of him, after he built and programmed this machine six thousand years ago."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 22,
+    "title": "Space Seed",
+    "questions": [
+      {
+        "ask": "KIRK: What's her name? McIvers?",
+        "SPOCK": "Lieutenant McGivers."
+      },{
+        "ask": "KIRK: You suspect some danger in them?",
+        "SPOCK": "Insufficient facts always invites danger, Captain."
+      },{
+        "ask": "KIRK: Would you estimate him to be a product of selective breeding?",
+        "SPOCK": "There is that possibility, Captain. His age would be correct."
+      },{
+        "ask": "KHAN: Tyranny, sir? Or an attempt to unify humanity?",
+        "SPOCK": "Unify, sir? Like a team of animals under one whip?"
+      },{
+        "ask": "KIRK: I'm a little pleased myself. Situation?",
+        "SPOCK": "Khan is holding our staff in the briefing room."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 23,
+    "title": "A Taste of Armageddon",
+    "questions": [
+      {
+        "ask": "KIRK: Final sensor readings?",
+        "SPOCK": "No hostility directed toward us."
+      },{
+        "ask": "KIRK: Are you sure you can do it, Mister Spock?",
+        "SPOCK": "Limited telepathic abilities are inherent in Vulcanians, Captain."
+      },{
+        "ask": "TAMULA: What are you going to do, Mister Spock?",
+        "SPOCK": "Find the Ambassador and the Captain."
+      },{
+        "ask": "FOX: What are you doing, Mister Spock?",
+        "SPOCK": "Practicing a peculiar variety of diplomacy, sir."
+      },{
+        "ask": "KIRK: Sometimes a feeling, Mister Spock, is all we humans have to go on.",
+        "SPOCK": "Captain, you almost make me believe in luck."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 24,
+    "title": "This Side of Paradise",
+    "questions": [
+      {
+        "ask": "KIRK: What are the chances of survivors?",
+        "SPOCK": "Absolutely none, Captain. Berthold rays are such a recent discovery."
+      },{
+        "ask": "KIRK: Where are you?",
+        "SPOCK": "I don't believe I want to tell you."
+      },{
+        "ask": "KIRK: What's?",
+        "SPOCK": "Mister Sulu understands, don't you, Mister Sulu?"
+      },{
+        "ask": "KIRK: Where's McCoy?",
+        "SPOCK": "He went off to create something called a mint julep. That's a drink, Jim."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 25,
+    "title": "The Devil In The Dark",
+    "questions": [
+      {
+        "ask": "KIRK: Volcanic activity?",
+        "SPOCK": "There is no current volcanic activity on this planet, Captain."
+      },{
+        "ask": "KIRK: Speculate.",
+        "SPOCK": "I have already given Doctor McCoy sufficient cause for amusement."
+      },{
+        "ask": "KIRK: Traces?",
+        "SPOCK": "A life form, Captain."
+      },{
+        "ask": "KIRK: One of our people?",
+        "SPOCK": "No, sir. Silicon."
+      },{
+        "ask": "KIRK: Are you certain?",
+        "SPOCK": "Positive."
+      },{
+        "ask": "KIRK: It's not animal tissue. What is it?",
+        "SPOCK": "The closest approximation I could come to would be fibrous asbestos."
+      },{
+        "ask": "KIRK: One creature in a hundred miles?",
+        "SPOCK": "Exactly."
+      },{
+        "ask": "KIRK: 2,228.7 to 1? Those are pretty good odds, Mister Spock.",
+        "SPOCK": "And they are of course accurate, Captain."
+      },{
+        "ask": "KIRK: Does it means something to you?",
+        "SPOCK": "Possibly the answer, Captain, but I'm not certain."
+      },{
+        "ask": "KIRK: I suspect you're becoming more and more human all the time.",
+        "SPOCK": "Captain, I see no reason to stand here and be insulted."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 26,
+    "title": "Errand Of Mercy",
+    "questions": [
+      {
+        "ask": "KIRK: Organia's description, Mister Spock.",
+        "SPOCK": "Inhabited by humanoids. A very peaceful, friendly people living on a primitive level."
+      },{
+        "ask": "KIRK: Can you verify that?",
+        "SPOCK": "Negative, Captain, but it seems a logical development."
+      },{
+        "ask": "KOR: A Vulcan. Do you also have a tongue?",
+        "SPOCK": "I am Spock, a dealer in kevas and trillium."
+      },{
+        "ask": "KIRK: What would you say the odds on our getting out of here?",
+        "SPOCK": "Difficult to be precise, Captain. I should say approximately 7,824.7 to 1."
+      },{
+        "ask": "KIRK: That's a pretty close approximation.",
+        "SPOCK": "I endeavour to be accurate."
+      },{
+        "ask": "KIRK: Well, what are the odds now?",
+        "SPOCK": "Less than seven thousand to one, Captain. It's remarkable we've got this far."
+      },{
+        "ask": "KIRK: What is it, Spock?",
+        "SPOCK": "Inexplicable, Captain. Extreme heat."
+      },{
+        "ask": "KOR: But is all of this possible?",
+        "SPOCK": "We have seen it with our own eyes."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 27,
+    "title": "The Alternative Factor",
+    "questions": [
+      {
+        "ask": "KIRK: What was that?",
+        "SPOCK": "What my instruments read is totally unbelievable, Captain."
+      },{
+        "ask": "KIRK: Explanation?",
+        "SPOCK": "None."
+      },{
+        "ask": "KIRK: A what?",
+        "SPOCK": "A kind of physical warp, Captain, in which none of our established physical laws apply with any regularity."
+      },{
+        "ask": "KIRK: What is your analysis of the mental state of Lazarus?",
+        "SPOCK": "Difficult, Captain. One moment, paranoid, the next, calm, mild, rational."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 28,
+    "title": "The City On The Edge Of Forever",
+    "questions": [
+      {
+        "ask": "KIRK: Mister Spock? We can't avoid these areas of turbulence.",
+        "SPOCK": "I believe we'll have them plotted in a few more orbits, Captain."
+      },{
+        "ask": "KIRK: Spock?",
+        "SPOCK": "This is of great scientific importance, Captain. We're actually passing through ripples in time."
+      },{
+        "ask": "POLICEMAN: What? Where?",
+        "SPOCK": "Oh, yes, it's quite untidy. Here, let me help you."
+      },{
+        "ask": "KIRK: Couldn't you build some form of computer aid here?",
+        "SPOCK": "In this zinc-plated vacuum-tubed culture?"
+      },{
+        "ask": "EDITH: What? What on Earth is that?",
+        "SPOCK": "I am endeavouring, ma'am, to construct a mnemonic memory circuit using stone knives and bearskins."
+      }
+    ]
+  },{
+    "season": 1,
+    "episode": 29,
+    "title": "Operation: Annihilate!",
+    "questions": [
+      {
+        "ask": "KIRK: Evaluation, Mister Spock.",
+        "SPOCK": "As I speculated, Captain, the overall pattern of mass insanity destroying civilisations follows an almost straight line through this section of the galaxy."
+      },{
+        "ask": "KIRK: Where is everyone?",
+        "SPOCK": "They're here, Captain. In the buildings. Strangely quiescent."
+      },{
+        "ask": "MCCOY: What is there to understand, Mister Spock?",
+        "SPOCK": "I am a Vulcan, Doctor. Pain is a thing of the mind. The mind can be controlled."
+      },{
+        "ask": "SCOTT: Where do you think you're going?",
+        "SPOCK": "I have an errand on the planet's surface. You will beam me down to the same co-ordinates as before."
+      },{
+        "ask": "KIRK: What other qualities or properties does the sun have?",
+        "SPOCK": "It exists physically. It occupies space. It has mass, therefore gravity. It converts matter to energy."
+      },{
+        "ask": "KIRK: Spock, are you all right?",
+        "SPOCK": "The creature within me is gone. I am free of it and the pain."
+      },{
+        "ask": "KIRK: You, I presume, felt nothing?",
+        "SPOCK": "Quite the contrary, Captain. I had a very strong reaction."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 1,
+    "title": "Amok Time",
+    "questions": [
+      {
+        "ask": "KIRK: Spock, what the devil is this all about?",
+        "SPOCK": "I have made my request, Captain. All I require from you is that you answer it. Yes or no."
+      },{
+        "ask": "KIRK: Why now?",
+        "SPOCK": "Captain, surely I have enough leave time accumulated."
+      },{
+        "ask": "KIRK: Spock, I'm asking you. What's wrong?",
+        "SPOCK": "I need rest. I'm asking you to accept that answer."
+      },{
+        "ask": "KIRK: What kind of biology?",
+        "SPOCK": "Vulcan biology."
+      },{
+        "ask": "KIRK: Is it permitted?",
+        "SPOCK": "It is my right. By tradition, the male is accompanied by his closest friends."
+      },{
+        "ask": "UHURA: She's lovely, Mister Spock. Who is she?",
+        "SPOCK": "She is T'Pring. My wife."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 2,
+    "title": "Who Mourns for Adonais?",
+    "questions": [
+      {
+        "ask": "KIRK: Preliminary reports, Mister Spock?",
+        "SPOCK": "Pollux Four. Class M type planet, oxygen and nitrogen atmosphere. Sensors indicate no life forms."
+      },{
+        "ask": "KIRK: A projection?",
+        "SPOCK": "Not a projection, sir. A field of energy."
+      },{
+        "ask": "KIRK: Insulted, Spock?",
+        "SPOCK": "Insults are effective only where emotion is present."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 3,
+    "title": "The Changeling",
+    "questions": [
+      {
+        "ask": "KIRK: Any other possibilities?",
+        "SPOCK": "Unknown, sir."
+      },{
+        "ask": "KIRK: Any further readings, Mister Spock?",
+        "SPOCK": "Computing now, Captain."
+      },{
+        "ask": "SCOTT: What kind of intelligent creatures can exist in a thing that small?",
+        "SPOCK": "Intelligence does not necessarily require bulk, Mister Scott."
+      },{
+        "ask": "KIRK: Sensor readings, Mister Spock?",
+        "SPOCK": "Negative, Captain. It has a protective screen."
+      },{
+        "ask": "NOMAD: I am Nomad. What is opinion?",
+        "SPOCK": "An opinion is a belief, a view, a judgment."
+      },{
+        "ask": "KIRK: Get into direct mental contact with that thing?",
+        "SPOCK": "It seems the only way."
+      },{
+        "ask": "KIRK: Spock. Spock?",
+        "SPOCK": "Fascinating, Captain. The knowledge. The depth."
+      },{
+        "ask": "KIRK: Then it isn't Nomad?",
+        "SPOCK": "Not the Nomad we lost from Earth."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 4,
+    "title": "Mirror, Mirror",
+    "questions": [
+      {
+        "ask": "KIRK: Why?",
+        "SPOCK": "I do not desire the captaincy."
+      },{
+        "ask": "KIRK: Is that a threat?",
+        "SPOCK": "I do not threaten, Captain. I merely state facts."
+      },{
+        "ask": "KIRK: The inevitable outcome?",
+        "SPOCK": "The Empire shall be overthrown, of course."
+      },{
+        "ask": "KIRK: Uh, why do you ask?",
+        "SPOCK": "Your reaction, One of recognition."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 5,
+    "title": "The Apple",
+    "questions": [
+      {
+        "ask": "KIRK: Are you sure about that?",
+        "SPOCK": "Oh, quite sure. Readings indicate the entire planet is covered with growth like this."
+      },{
+        "ask": "CHEKOV: What is it, Mister Spock?",
+        "SPOCK": "A visitor. One wanting to retain his anonymity, I should say."
+      },{
+        "ask": "KIRK: Some kind of generator?",
+        "SPOCK": "If so, an immense one. Probably subterranean."
+      },{
+        "ask": "KIRK: Spock. Are you all right?",
+        "SPOCK": "Doctor McCoy's potion is acting like all his potions, turning my stomach."
+      },{
+        "ask": "KIRK: Do you know how much Starfleet has invested in you?",
+        "SPOCK": "One hundred twenty two thousand two hundred."
+      },{
+        "ask": "KIRK: A force field?",
+        "SPOCK": "Obviously."
+      },{
+        "ask": "SAYANA: I am Sayana. You have a name?",
+        "SPOCK": "Yes. Spock. I am Spock."
+      },{
+        "ask": "KIRK: Is there anyone on this ship who even remotely looks like Satan?",
+        "SPOCK": "I am not aware of anyone who fits that description, Captain."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 6,
+    "title": "The Doomsday Machine",
+    "questions": [
+      {
+        "ask": "KIRK: Radiation levels?",
+        "SPOCK": "Normal, but subspace interference makes readings difficult."
+      },{
+        "ask": "DECKER: Status report?",
+        "SPOCK": "Impulse and warp engines operative, transporter and communications under repair."
+      },{
+        "ask": "MCCOY: Well, Spock?",
+        "SPOCK": "Unfortunately, Starfleet Order 104, Section B, leaves me no alternative."
+      },{
+        "ask": "DECKER: But don't you understand? We've got to destroy it!",
+        "SPOCK": "That, sir, is illogical. It is suicide."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 7,
+    "title": "Catspaw",
+    "questions": [
+      {
+        "ask": "KIRK: Readings, Mister Spock?",
+        "SPOCK": "No indications of. A moment, Captain. Picking up life form readings."
+      },{
+        "ask": "KIRK: Spock. Comment?",
+        "SPOCK": "Very bad poetry, Captain."
+      },{
+        "ask": "KIRK: Spock. Are you all right?",
+        "SPOCK": "Yes. I am undamaged, Captain."
+      },{
+        "ask": "KIRK: They're all Earth manifestations. Why?",
+        "SPOCK": "I do not know, Captain, but these things do exist."
+      },{
+        "ask": "MCCOY: Familiars?",
+        "SPOCK": "Demons in animal forms sent by Satan to serve the wizard."
+      },{
+        "ask": "KIRK: How long has it been?",
+        "SPOCK": "Twenty two minutes, seventeen seconds."
+      },{
+        "ask": "KIRK: Do you think you can make it?",
+        "SPOCK": "Ready when you are, Captain."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 8,
+    "title": "I, Mudd",
+    "questions": [
+      {
+        "ask": "KIRK: Spock?",
+        "SPOCK": "Confirmed, Captain. He's taken out all the override controls."
+      },{
+        "ask": "MCCOY: How do you know so much?",
+        "SPOCK": "I asked them."
+      },{
+        "ask": "ALICE 210: Is there some significance to this action?",
+        "SPOCK": "I love you. However, I hate you."
+      },{
+        "ask": "KIRK: Well?",
+        "SPOCK": "Success, Captain."
+      },{
+        "ask": "KIRK: Why not?",
+        "SPOCK": "Logic is a little tweeting bird chirping in a meadow."
+      },{
+        "ask": "KIRK: Mister Spock, isn't that too much for our purposes?",
+        "SPOCK": "I believe that is the correct amount, Captain."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 9,
+    "title": "Metamorphosis",
+    "questions": [
+      {
+        "ask": "KIRK: Yes?",
+        "SPOCK": "Will you check your automatic scanner, please?"
+      },{
+        "ask": "KIRK: Spock?",
+        "SPOCK": "Gravity is similar to Earth. Most unusual in view of its size."
+      },{
+        "ask": "MCCOY: Spock! Are you all right?",
+        "SPOCK": "Yes. Quite all right, Doctor. A most fascinating thing happened."
+      },{
+        "ask": "MCCOY: It attacked you?",
+        "SPOCK": "Evidently. Unquestionably, a large part of its substance is simple electricity."
+      },{
+        "ask": "KIRK: Ready, Mister Spock?",
+        "SPOCK": "Quite ready, Captain."
+      },{
+        "ask": "COCHRANE: I love her. Is that surprising?",
+        "SPOCK": "Not coming from a human being. You are, after all, essentially irrational."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 10,
+    "title": "Journey To Babel",
+    "questions": [
+      {
+        "ask": "KIRK: Identification, Spock?",
+        "SPOCK": "Sensors indicate the size of a scout ship, but the configuration is unfamiliar."
+      },{
+        "ask": "KIRK: Care to guess what she is?",
+        "SPOCK": "Guess, Captain? I shall need more data for my estimate."
+      },{
+        "ask": "KIRK: Who aboard would have that knowledge?",
+        "SPOCK": "Vulcans. On Vulcan, the method is called tal-shaya."
+      },{
+        "ask": "MCCOY: Spock, do you realise that makes your father the most likely suspect?",
+        "SPOCK": "Vulcans do not approve of violence."
+      },{
+        "ask": "KIRK: But if he had a reason, could he have done it?",
+        "SPOCK": "If there were a reason, my father is quite capable of killing. Logically and efficiently."
+      },{
+        "ask": "KIRK: Aren't you worried about him?",
+        "SPOCK": "Worry is a human emotion, Captain. I accept what has happened."
+      },{
+        "ask": "KIRK: Why not?",
+        "SPOCK": "It is in no known code. There's no detectable pattern. No standard references apply."
+      },{
+        "ask": "KIRK: Are any conclusions possible from the information?",
+        "SPOCK": "Only negative. It fits none of our computer records, and it is alien."
+      },{
+        "ask": "MCCOY: What?",
+        "SPOCK": "My first responsibility is to the ship.  Our passengers safety is by Starfleet order of first importance."
+      },{
+        "ask": "MCCOY: Where do you think you're going?",
+        "SPOCK": "I must see the captain."
+      },{
+        "ask": "MCCOY: Orion?",
+        "SPOCK": "Intelligence reports that Orion smugglers have been raiding the Coridan system."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 11,
+    "title": "Friday's Child",
+    "questions": [
+      {
+        "ask": "KIRK: Analysis, gentlemen?",
+        "SPOCK": "Ordinarily, under these circumstances, I would recommend a large, well-armed landing party."
+      },{
+        "ask": "KIRK: What do you think, Spock?",
+        "SPOCK": "I think you're both going to be insufferably pleased with yourselves for at least a month, sir."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 12,
+    "title": "The Deadly Years",
+    "questions": [
+      {
+        "ask": "KIRK: What about the atmosphere and environment, Mister Spock?",
+        "SPOCK": "Sensors reveal nothing which is inimical to human life."
+      },{
+        "ask": "KIRK: Progress report, Mister Spock?",
+        "SPOCK": "All research lines negative, Captain."
+      },{
+        "ask": "KIRK: Total senility?",
+        "SPOCK": "Yes, Captain. In a very short time."
+      },{
+        "ask": "KIRK: What is it?",
+        "SPOCK": "The orbit of Gamma Hydra Four carried the planet directly through the comet's trail."
+      },{
+        "ask": "KIRK: If you're not in command, who is?",
+        "SPOCK": "Commodore Stocker."
+      },{
+        "ask": "KIRK: Are you refusing a direct order?",
+        "SPOCK": "No, sir. Only Commodore Stocker can give a command order onboard this ship."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 13,
+    "title": "Obsession",
+    "questions": [
+      {
+        "ask": "KIRK: Spock, how do you read that?",
+        "SPOCK": "Conflicting data, Captain."
+      },{
+        "ask": "MCCOY: Creature, Mister Spock?",
+        "SPOCK": "It turned and attacked, Doctor. Its method was well-considered and intelligent."
+      },{
+        "ask": "KIRK: Mister Spock, why aren't you dead?",
+        "SPOCK": "My haemoglobin is based on copper, not iron."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 14,
+    "title": "Wolf In The Fold",
+    "questions": [
+      {
+        "ask": "KIRK: Spock, don't you have a compulsory scan unit built into the computer banks?",
+        "SPOCK": "Yes we do, Captain, but with the entity in control."
+      },{
+        "ask": "KIRK: Spock?",
+        "SPOCK": "Proceeding, Captain, but I will need some time."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 15,
+    "title": "The Trouble With Tribbles",
+    "questions": [
+      {
+        "ask": "KIRK: Mister Spock, immediate past history of the quadrant?",
+        "SPOCK": "Under dispute between the two parties since initial contact."
+      },{
+        "ask": "KIRK: Analysis of disputed area?",
+        "SPOCK": "Undeveloped."
+      },{
+        "ask": "BARIS: What do you mean?",
+        "SPOCK": "Misuse of the Priority One channels is a Federation offence."
+      },{
+        "ask": "MCCOY: What's the matter, Spock?",
+        "SPOCK": "There's something disquieting about these creatures."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 16,
+    "title": "The Gamesters Of Triskelion",
+    "questions": [
+      {
+        "ask": "MCCOY: Does that mean their atoms are just floating around out there?",
+        "SPOCK": "No, Doctor. Even that would show up on our sensors."
+      },{
+        "ask": "MCCOY: Hope? I always thought that was a human failing, Mister Spock.",
+        "SPOCK": "True, Doctor. Constant exposure does result in a certain degree of contamination."
+      },{
+        "ask": "MCCOY: What would account for that, Spock?",
+        "SPOCK": "Exactly the question I have just fed to the computers, Doctor."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 17,
+    "title": "A Piece Of The Action",
+    "questions": [
+      {
+        "ask": "KALO: What's the matter, you guys never saw a hit before?",
+        "SPOCK": "Sir, there are several questions I would like to ask."
+      },{
+        "ask": "KIRK: Spock, what are the odds in getting a royal fizzbin?",
+        "SPOCK": "I have never computed them, Captain."
+      },{
+        "ask": "MCCOY: Now, how are you with primitive radio equipment?",
+        "SPOCK": "Very simple. Amplitude modulation transmission."
+      },{
+        "ask": "UHURA: Mister Spock, what are you doing on this frequency?",
+        "SPOCK": "A very long and complicated story, Lieutenant."
+      },{
+        "ask": "OXMYX: Huh? Hey, how'd you get back up there?",
+        "SPOCK": "Irrelevant, since we are here."
+      },{
+        "ask": "KIRK: Did you find out anything from the computer?",
+        "SPOCK": "Nothing useful. Logic and practical information do not seem to apply here."
+      },{
+        "ask": "MCCOY: You admit that?",
+        "SPOCK": "To deny the facts would be illogical, Doctor."
+      },{
+        "ask": "KIRK: Are you afraid of cars?",
+        "SPOCK": "Not at all, Captain. It's your driving that alarms me."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 18,
+    "title": "The Immunity Syndrome",
+    "questions": [
+      {
+        "ask": "MCCOY: What is it, Spock? Are you in pain?",
+        "SPOCK": "Captain, the Intrepid. It just died."
+      },{
+        "ask": "KIRK: Malfunction, Mister Spock?",
+        "SPOCK": "Negative, Captain. All systems functioning properly."
+      },{
+        "ask": "KIRK: Boundary layer between what and what?",
+        "SPOCK": "Between where we were and where we are."
+      },{
+        "ask": "KIRK: Are you trying to be funny, Mister Spock?",
+        "SPOCK": "It would never occur to me, Captain."
+      },{
+        "ask": "KIRK: What was it you sensed?",
+        "SPOCK": "The touch of death."
+      },{
+        "ask": "MCCOY: You're determined not to let me share in this, aren't you?",
+        "SPOCK": "This is not a competition, Doctor."
+      },{
+        "ask": "MCCOY: Vulcan dignity? How can I grant you what I don't understand?",
+        "SPOCK": "Then employ one of your own superstitions. Wish me luck."
+      },{
+        "ask": "KIRK: When do you estimate penetration?",
+        "SPOCK": "Slowing now. Contact in eighteen point three seconds. Brace yourselves."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 19,
+    "title": "A Private Little War",
+    "questions": [
+      {
+        "ask": "SCOTT: What's this all about?",
+        "SPOCK": "She was doing as I requested, Mister Scott. A Vulcan form of self-healing."
+      },{
+        "ask": "MCCOY: Spock, are you alive?",
+        "SPOCK": "An illogical question, Doctor, since obviously you are hearing my voice."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 20,
+    "title": "Return To Tomorrow",
+    "questions": [
+      {
+        "ask": "KIRK: What's causing it?",
+        "SPOCK": "I do not know. Not even a Vulcan can know the unknown, Captain."
+      },{
+        "ask": "KIRK: Got something?",
+        "SPOCK": "Sensors registering some form of energy deep inside the planet."
+      },{
+        "ask": "MCCOY: Inside solid rock?",
+        "SPOCK": "Unlikely. These co-ordinates correspond with the location of the subterranean chamber."
+      },{
+        "ask": "MCCOY: Just how much rock are we going to go through?",
+        "SPOCK": "Approximately one hundred twelve point three seven miles, Doctor."
+      },{
+        "ask": "KIRK: Composition of walls?",
+        "SPOCK": "They're an alloy or substance completely unknown to me."
+      },{
+        "ask": "KIRK: Where was your consciousness kept?",
+        "SPOCK": "The place Henoch would least suspect, Captain."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 21,
+    "title": "Patterns Of Force",
+    "questions": [
+      {
+        "ask": "KIRK: From Ekos?",
+        "SPOCK": "Yes, but it must be a Zeon ship."
+      },{
+        "ask": "KIRK: Unbelievable. Do you recognise those uniforms?",
+        "SPOCK": "Mid-twentieth century Earth. The nation state called Nazi Germany."
+      },{
+        "ask": "KIRK: That's John Gill. The Fuhrer?",
+        "SPOCK": "Fascinating."
+      },{
+        "ask": "DARAS: You mean that the Fuhrer is an alien?",
+        "SPOCK": "That is correct."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 22,
+    "title": "By Any Other Name",
+    "questions": [
+      {
+        "ask": "KIRK: What was it?",
+        "SPOCK": "A series of bizarre and exotic images bursting on my mind and consciousness."
+      },{
+        "ask": "KIRK: Is there a chance at all?",
+        "SPOCK": "A small one."
+      },{
+        "ask": "KIRK: What alternative?",
+        "SPOCK": "The barrier we must penetrate is composed of negative energy."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 23,
+    "title": "The Omega Glory",
+    "questions": [
+      {
+        "ask": "KIRK: Are you all right?",
+        "SPOCK": "Bruised only."
+      },{
+        "ask": "KIRK: Don't they ever rest?",
+        "SPOCK": "Not that I have observed, Captain."
+      },{
+        "ask": "KIRK: Spock. How long?",
+        "SPOCK": "Seven hours and eight minutes, Captain."
+      },{
+        "ask": "KIRK: Spock?",
+        "SPOCK": "I'm weak, Captain, but not in difficulty."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 24,
+    "title": "The Ultimate Computer",
+    "questions": [
+      {
+        "ask": "WESLEY: How do you know so much about it, Commander?",
+        "SPOCK": "I hold an A-7 computer expert classification, Commodore."
+      },{
+        "ask": "MCCOY: Spock? What does it mean?",
+        "SPOCK": "Dunsel, Doctor, is a term used by midshipmen at Starfleet Academy. It refers to a part which serves no useful purpose."
+      },{
+        "ask": "KIRK: What is it, exactly? What is it?",
+        "SPOCK": "I do not mean to offend, sir, but it behaves with an almost human pattern."
+      },{
+        "ask": "MCCOY: Care to debate that, Spock?",
+        "SPOCK": "No, Doctor. I simply maintain that computers are more efficient than human beings, not better."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 25,
+    "title": "Bread And Circuses",
+    "questions": [
+      {
+        "ask": "KIRK: Slaves and gladiators. What are we seeing, a twentieth-century Rome?",
+        "SPOCK": "Captain, the one described as the barbarian is also listed here."
+      },{
+        "ask": "FLAVIUS: What do you call those?",
+        "SPOCK": "I call them ears."
+      },{
+        "ask": "MCCOY: Angry, Mister Spock, or frustrated, perhaps?",
+        "SPOCK": "Such emotions are foreign to me, Doctor. I'm merely testing the strength of the door."
+      }
+    ]
+  },{
+    "season": 2,
+    "episode": 26,
+    "title": "Assignment: Earth",
+    "questions": [
+      {
+        "ask": "KIRK: What do you make of the cat, Mister Spock?",
+        "SPOCK": "Quite a lovely animal, Captain. I find myself strangely drawn to it."
+      }
+    ]
+  }
+]}

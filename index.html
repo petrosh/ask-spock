@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ASK SPOCK</title>
+    <script src="https://code.jquery.com/jquery-1.11.2.js" charset="utf-8"></script>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,400,300' rel='stylesheet' type='text/css'>
+    <style media="screen">
+      body{
+        background: black;
+        color:white;
+        font-family: 'Roboto Condensed', sans-serif;
+        color:#f0f0f0;
+      }
+      .clear{
+        clear: both;
+      }
+      #go, #uno{
+        float:right;
+      }
+      #uno{
+        font-size: 20px;
+        color: #343434;
+        margin-top: 0px;
+        font-style: italic;
+      }
+      h1{
+        font-weight: 400;
+        font-size: 84px;
+        letter-spacing: -5px;
+        word-spacing: 15px;
+      }
+      .left, .right{
+        width:50%;
+        float:left;
+        text-align: center;
+      }
+      p{
+        font-weight: 100;
+        font-size:25px;
+        padding: 0px 60px;
+      }
+      #answ{
+        padding-top:50px;
+      }
+    </style>
+    <script charset="utf-8">
+    $(document).ready( function() {
+      // read json
+      var json = (function () {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': 'main.json',
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+      })();
+
+      show();
+      $('body, div, p, h1, html').click(function() {
+        show();
+      });
+
+      // console.log(a,spock,q,quest,questions,json);
+      function show(){
+        // extract episode
+        var extract = pickRandomProperty(json.main);
+        var element = json.main[extract];
+        var questions = element.questions;
+        // extract question
+        var quest = pickRandomProperty(questions);
+        var q = questions[quest];
+        var p = document.getElementById('uno');
+        var ask = document.getElementById('ask');
+        var spockdiv = document.getElementById('spock');
+        p.innerHTML = element.title + " &#x2013; S" + element.season + " E" + element.episode;
+        var a = q.ask; var spock = q.SPOCK;
+        ask.innerHTML = a;
+        spockdiv.innerHTML = spock;
+        makebtn(a," SPOCK: spock");
+      }
+      function pickRandomProperty(obj) {
+        var result;
+        var count = 0;
+        for (var prop in obj)
+            if (Math.random() < 1/++count)
+               result = prop;
+        return result;
+      }
+      function makebtn(ask,spock){
+        var tweet = document.createElement("a");
+        tweet.classList.add("twitter-share-button");
+        tweet.setAttribute("href", "https://twitter.com/share");
+        tweet.setAttribute("data-via", "giampiex");
+        tweet.setAttribute("data-url", "http://git.io/army");
+        tweet.setAttribute("data-counturl", "http://0x0800.github.io/2048-ARMY");
+        tweet.textContent = "Tweet";
+
+        var text = ask + spock + " via @askspock";
+        tweet.setAttribute("data-text", text);
+        var twb = document.getElementById('twitter');
+        //twb.innerHTML = tweet;
+      }
+    });
+    </script>
+  </head>
+  <body>
+    <div class="left">
+      <h1>ASK SPOCK</h1>
+    </div>
+    <div class="right">
+      <img src="lui.jpg" alt="nimoy" />
+    </div>
+    <div class="answ clear">
+      <p id="ask"></p>
+      <p id="go"><span id="spock"></span></p>
+      <p id="uno" class="clear"></p>
+    </div>
+    <div id="twitter"></div>
+  </body>
+  <script>
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+</script>
+</html>
